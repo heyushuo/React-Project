@@ -18,7 +18,7 @@ function counter(state=0,action){
 const store = createStore(counter)
 
 //获取数据，
-const init=store.getState() 
+const init=store.getState()
 
 //订阅事件
 function listener(){
