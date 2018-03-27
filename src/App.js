@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Button, WhiteSpace, WingBlank } from 'antd-mobile';
-
+import { addGun , removeGun ,addGunAsync } from './index.redux'
 import {  connect } from 'react-redux'
 
 class App extends Component {
@@ -35,5 +35,5 @@ const actionCreators = { addGun , removeGun ,addGunAsync }
 //标准的装饰器模式
 //这样放后react-redux会自动把这些action还有state放到props里
 //这样之后就不用在dispath了，直接调用这些action就可以达到dispath的作用
-App = connect(mapStatetoProps , actionCreators)(App);
-export default App;
+export default connect(mapStatetoProps , actionCreators)(App);
+

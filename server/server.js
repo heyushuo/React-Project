@@ -8,4 +8,4 @@ app.get('/',function (req, res) {
 app.get('/data',function (req, res) {
 	res.json({name:"heushuo","age":"25"})
 })
-app.listen("9999")
+app.listen("9093")
