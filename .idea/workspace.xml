@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c41e0e17-2c79-4ded-9d44-9c93e24daf97" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.redux.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/redux.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
@@ -47,15 +40,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="375">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="e#135#196#0" expanded="true" />
+                <element signature="e#281#325#0" expanded="true" />
+                <element signature="e#424#456#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/logo/logo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/component/logo/logo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/login/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/container/register/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,9 +100,26 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="432">
+              <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="16" />
+              <folding>
+                <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+                <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+                <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+                <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,9 +167,12 @@
         <option value="$PROJECT_DIR$/server/server.js" />
         <option value="$PROJECT_DIR$/src/config.js" />
         <option value="$PROJECT_DIR$/src/reducer.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/component/login/login.js" />
+        <option value="$PROJECT_DIR$/src/container/register/register.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/component/logo/logo.js" />
       </list>
     </option>
   </component>
@@ -137,7 +194,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="464" />
     <option name="width" value="683" />
     <option name="height" value="728" />
@@ -173,6 +230,25 @@
               <item name="react-project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="logo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="container" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +272,11 @@
     <property name="node.js.selected.package.standard" value="D:\project\React-project-creat-react-app\react-project\node_modules\eslint" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\React-project-creat-react-app\react-project\src\container" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\React-project-creat-react-app\react-project\src\component\logo" />
       <recent name="D:\project\React-project-creat-react-app\react-project\src" />
     </key>
   </component>
@@ -227,17 +307,18 @@
       <workItem from="1521553571209" duration="4306000" />
       <workItem from="1521815493338" duration="3445000" />
       <workItem from="1522120639740" duration="107000" />
-      <workItem from="1522157270965" duration="4512000" />
+      <workItem from="1522157270965" duration="7715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16608000" />
+    <option name="totallyTimeSpent" value="19811000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="464" y="0" width="683" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3488372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16741072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -291,6 +372,8 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#135#196#0" expanded="true" />
+            <element signature="e#281#325#0" expanded="true" />
+            <element signature="e#424#456#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -307,7 +390,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+            <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -342,6 +442,8 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#135#196#0" expanded="true" />
+            <element signature="e#281#325#0" expanded="true" />
+            <element signature="e#424#456#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -366,7 +468,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+            <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -393,6 +512,8 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#135#196#0" expanded="true" />
+            <element signature="e#281#325#0" expanded="true" />
+            <element signature="e#424#456#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -417,7 +538,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+            <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,6 +574,8 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#135#196#0" expanded="true" />
+            <element signature="e#281#325#0" expanded="true" />
+            <element signature="e#424#456#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -444,7 +584,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="39" column="10" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="10" />
-          <folding />
+          <folding>
+            <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+            <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -512,14 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -530,14 +679,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/register/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <marker date="1522164321736" expanded="true" signature="88:1724" ph="{&quot;antd-mobile&quot;: &quot;^2.1.8&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1739:1867" ph="{&quot;start&quot;: &quot;node scripts/start.js&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1879:2755" ph="{&quot;testEnvironment&quot;: &quot;node&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="1908:1945" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="1965:2010" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2029:2145" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2230:2447" ph="{&quot;^.+\.(js|jsx|mjs)$&quot;: &quot;&lt;rootDir&gt;/node_modules/babel-jest&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2480:2540" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2566:2616" ph="{&quot;^react-native$&quot;: &quot;react-native-web&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="2646:2751" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2768:2994" ph="{...}" />
+            <marker date="1522164321736" expanded="true" signature="2785:2810" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2827:2990" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2835:2947" ph="[...]" />
+            <marker date="1522164321736" expanded="true" signature="2863:2939" ph="{&quot;libraryName&quot;: &quot;antd-mobile&quot;...}" />
+            <marker date="1522164321736" expanded="true" signature="3057:3157" ph="{&quot;no-undef&quot;: &quot;off&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="25" column="16" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        <state relative-caret-position="375">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#135#196#0" expanded="true" />
+            <element signature="e#281#325#0" expanded="true" />
+            <element signature="e#424#456#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/container/login/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/logo/logo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/logo/logo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

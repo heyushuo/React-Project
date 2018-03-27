@@ -1,4 +1,6 @@
  "transform-decorators-legacy" ：为了让connect可以使用装饰器写法
+npm install -save babel-plugin-transform-decorators-legacy
+
 
 ----------
 
@@ -11,4 +13,6 @@
  "cookie-parser"  ：  express处理cookie用的
 
 ----------
-react-thunk ：：为了让redux处理异步下载的
+redux-thunk ：：为了让redux处理异步下载的
+
+----------
