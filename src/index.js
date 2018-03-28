@@ -13,7 +13,7 @@ import AuthRoute from "./component/authroute/authroute"
 //reducer用来处理action和state的，需要放在createStore里
 import reducers from './reducer'
 import './config'
-
+import './index.css'
 
 const store = createStore(
 	reducers,
