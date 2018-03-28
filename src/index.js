@@ -9,6 +9,7 @@ import { Provider } from 'react-redux'
 //Redux需要用到的
 import Login from "./container/login/login";
 import Register from "./container/register/register";
+import AuthRoute from "./component/authroute/authroute"
 //reducer用来处理action和state的，需要放在createStore里
 import reducers from './reducer'
 import './config'
@@ -26,6 +27,7 @@ ReactDOM.render(
 	<Provider store={store}>
 		<BrowserRouter>
 			<div>
+				<AuthRoute></AuthRoute>
 				<Route path='/login' component={Login} ></Route>
 				<Route path='/register' component={Register} ></Route>
 			</div>

@@ -14,5 +14,3 @@ npm install -save babel-plugin-transform-decorators-legacy
 
 ----------
 redux-thunk ：：为了让redux处理异步下载的
-
-----------
