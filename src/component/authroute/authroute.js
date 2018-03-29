@@ -29,10 +29,6 @@ export default class AuthRoute extends React.Component{
 		})
 	}
 	render(){
-		return (
-			<div>
-				判断是否跳转用的
-			</div>
-		)
+		return null
 	}
 }

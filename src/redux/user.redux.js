@@ -30,6 +30,8 @@ function errorMsg(msg) {
 		type:ERROR_MSG
 	}
 }
+
+//action
 export function register({user, pwd, repeatpwd ,type}) {
 	if (!user || !pwd || !type){
 		return errorMsg('用户名密码必须输入')
