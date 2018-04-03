@@ -17,3 +17,6 @@ redux-thunk ：：为了让redux处理异步下载的
 
 ----------
 body-parser 可以接受post的参数
+
+----------
+npm install utility  用来md5加密使用的
