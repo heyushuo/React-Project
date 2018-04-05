@@ -25,7 +25,6 @@ const models = {
 }
 
 for (let m in models){
-	console.log(m)
 	mongoose.model(m,new mongoose.Schema(models[m]))
 }
 module.exports = {
