@@ -1,8 +1,14 @@
 import React from 'react'
 import axios from 'axios'
 import { withRouter } from 'react-router-dom'
+import { loadData } from '../../redux/user.redux'
+import { connect } from 'react-redux'
 //这样包裹一下就可以看到router数据了
 @withRouter
+@connect(
+	null,
+	{ loadData }
+)
 export default class AuthRoute extends React.Component{
 	componentDidMount(){
 		//获取用户信息
@@ -21,8 +27,10 @@ export default class AuthRoute extends React.Component{
 			if (res.status==200){
 				if (res.data.code==0){
 					//有登陆信息
+					this.props.loadData(res.data.data)
 				}else{
 					//undefined,因为这个不是路由组件只是一个不同的组件
+
 					this.props.history.push('./login')
 				}
 			}
