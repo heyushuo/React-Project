@@ -10,6 +10,7 @@ import { Provider } from 'react-redux'
 import Login from "./container/login/login";
 import Register from "./container/register/register";
 import AuthRoute from "./component/authroute/authroute"
+import BossInfo from "./container/bossinfo/bossinfo";
 //reducer用来处理action和state的，需要放在createStore里
 import reducers from './reducer'
 import './config'
@@ -28,6 +29,7 @@ ReactDOM.render(
 		<BrowserRouter>
 			<div>
 				<AuthRoute></AuthRoute>
+				<Route path= '/BossInfo' component={BossInfo} ></Route>
 				<Route path='/login' component={Login} ></Route>
 				<Route path='/register' component={Register} ></Route>
 			</div>
